@@ -12,4 +12,4 @@ try again
 delete this line
 git tracks changes
 test  git branch创建分支  by 1 commit and simple.
-git is simple git.
+git is quit  and  simple.
