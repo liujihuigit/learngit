@@ -11,4 +11,4 @@ git for free 20160425
 try again
 delete this line
 git tracks changes
-test  git branch创建分支
+test  git branch创建分支  by 1 commit.
