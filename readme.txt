@@ -14,3 +14,4 @@ git tracks changes
 test  git branch创建分支  by 1 commit and simple.
 git is quit  and  simple.
 git merge
+git checkout -b name
